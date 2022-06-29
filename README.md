@@ -1,2 +1,2 @@
 # Vending-Machine
-vending machine for WS.
+QBCore Vending Machine For WS.
